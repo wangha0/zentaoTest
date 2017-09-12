@@ -1,0 +1,1 @@
+java -jar ./driver/selenium-server-standalone-3.0.0.jar -role hub
