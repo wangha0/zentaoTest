@@ -62,7 +62,7 @@ if __name__=='__main__':
     now=time.strftime("%Y-%m-%d %H_%M_%S")
 
     #定义报告存放路径
-    filename='./bankcredit/report/'+now+'_result.html'
+    filename='./zentao/report/'+now+'_result.html'
 
     #打开文件
     fp=open(filename,'wb')
@@ -71,7 +71,7 @@ if __name__=='__main__':
     runner=HTMLTestRunner(stream=fp,title=u'征信项目自动化测试报告',description=u'环境：win10-x64，浏览器：firefox')
 
     #指定用例为给定目录下，所有*_sta.py文件
-    discover=unittest.defaultTestLoader.discover('./bankcredit/test_case',pattern='login*_sta.py')
+    discover=unittest.defaultTestLoader.discover('./zentao/test_case',pattern='login*_sta.py')
 
     #运行测试用例
     runner.run(discover)
@@ -80,7 +80,7 @@ if __name__=='__main__':
     fp.close()
 
     #获得最新报告
-    file_path=new_report('./bankcredit/report/')
+    file_path=new_report('./zentao/report/')
 
     #将最新报告通过邮件发送
     #send_email(file_path)
