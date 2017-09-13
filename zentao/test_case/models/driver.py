@@ -1,4 +1,3 @@
-#coding=utf-8
 from selenium.webdriver import Remote
 from selenium import webdriver
 import platform
@@ -16,10 +15,11 @@ def browser():
     #driver=Remote(command_executor='http://'+host+'/wd/hub',desired_capabilities=dc)
 
     #driver=webdriver.Chrome()
-    Profile=webdriver.FirefoxProfile("C:\Users\Default\AppData"
-                                     "\Roaming\Mozilla\Firefox"
-                                     "\Profiles\\t43212t8.default")
-    driver=webdriver.Firefox(Profile)
+    driver=webdriver.Firefox()
+    # Profile=webdriver.FirefoxProfile("C:\\Users\Administrator\AppData"
+    #                                  "\Local\Mozilla\Firefox"
+    #                                  "\Profiles\\0et9yhl2.default")
+    # driver=webdriver.Firefox(Profile)
     return driver
 
 if __name__ == "__main__":

@@ -1,4 +1,3 @@
-#coding=utf-8
 from time import sleep
 
 from ..page_obj.loginpage import LoginPage
@@ -9,12 +8,11 @@ class LoginTask(BaseTask):
     #因为登录动作会被其他页面频繁调用，所以写在登录页面，方便其他页面调用
     #这里的username,password如果其他页面使用的一致的话，可以设置默认值，其他页面调用的时候可以不用重复设置
     #因为保理金融云的角色比较多，不适用于这种情况，所以不设置默认值
-    def user_login(self,username,password,CAPTCHA):
+    def user_login(self,username,password):
         self.getPage(LoginPage(self.driver))
         self.open()
-        self.page.login_username(username)
-        self.page.login_password(password)
-        self.page.login_CAPTCHA(CAPTCHA)
+        self.page.account_input(username)
+        self.page.password_input(password)
         self.page.login_button()
         sleep(1)
 

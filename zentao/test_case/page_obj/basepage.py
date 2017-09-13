@@ -1,4 +1,3 @@
-#coding=utf-8
 class BasePage(object):
 
     # 初始化函数

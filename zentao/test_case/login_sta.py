@@ -12,15 +12,15 @@ from zentao.test_case.page_task.usermanagertask import UserManagerTask
 class loginTest(myunit.MyTest):
 
     #测试用户登录，给了默认值为空
-    def user_login_verify(self,username='',password='',CAPTCHA=''):
-        LoginTask(self.driver).user_login(username,password,CAPTCHA)
+    def user_login_verify(self,username='',password=''):
+        LoginTask(self.driver).user_login(username,password)
 
     #@unittest.skip("无条件跳过测试")
     def test_login1(self):
-        u"""用户名nbry，密码s123456，验证码为空登录"""
-        self.user_login_verify('nbry','s123456')
+        u"""用户名admin，密码wangha0_MS"""
+        self.user_login_verify('admin','wangha0_MS')
         try:
-            self.assertEqual(UserManagerTask(self.driver).user_login_success(),'nbry')
+            self.assertEqual(UserManagerTask(self.driver).user_login_success(),'admin')
         except BaseException:
             function.insert_img(self.driver,'user_login_failed.jpg')
             raise

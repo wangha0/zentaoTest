@@ -1,8 +1,7 @@
-#coding=utf-8
 class BaseTask(object):
 
     # 保理金融云公共url地址
-    zentao_url = 'http://10.12.12.117:8083'
+    zentao_url = 'http://192.168.137.216/'
 
     # 初始化函数
     def __init__(self, selenium_drvier, base_url=zentao_url, parent=None):
