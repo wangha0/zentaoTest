@@ -3,7 +3,7 @@ import sys
 import unittest
 from models import myunit, function
 from zentao.test_case.page_task.logintask import LoginTask
-from zentao.test_case.page_task.usermanagertask import UserManagerTask
+from zentao.test_case.page_task.mytask import UserManagerTask
 from zentao.test_case.page_task.sysresponsetask import SysResponseTask
 from time import sleep
 import logging

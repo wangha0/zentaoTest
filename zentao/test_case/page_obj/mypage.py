@@ -1,4 +1,3 @@
-#coding=utf-8
 import time
 from selenium.webdriver.common.by import By
 from .basepage import BasePage
@@ -6,13 +5,13 @@ from selenium.webdriver.support.select import Select
 from selenium.webdriver.common.action_chains import ActionChains
 from time import sleep
 
-class UserManagerPage(BasePage):
+class MyPage(BasePage):
 
     # 页面url后缀
-    url = '/user_manager/'
+    url = '/zentao/my.html'
 
     #页面元素定位方式
-    user_login_success_loc=(By.CSS_SELECTOR,".header_login>p:nth-child(2)>i:nth-child(1)")
+    user_login_success_loc=(By.XPATH,"//div[@id='userMenu']/a[1]")
     product_link_loc=(By.XPATH,"//a[@href='/product']")
     channel_link_loc=(By.XPATH,"//a[@href='/channel']")
     bk_selfvertify_link_loc=(By.XPATH,"//a[contains(.,'路由管理')]")

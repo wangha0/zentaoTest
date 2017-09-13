@@ -70,3 +70,41 @@ IPDL protocol error: Handler returned error code!
 
 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
 
+1505313312540	geckodriver	INFO	geckodriver 0.18.0
+1505313312540	geckodriver	INFO	Listening on 127.0.0.1:13213
+1505313314687	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505313315080	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505313315595	Marionette	INFO	Enabled via --marionette
+1505313317765	Marionette	INFO	Listening on port 13220
+1505313317832	Marionette	INFO	Listening on port 13220
+1505313317925	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505313317974	Marionette	DEBUG	loaded listener.js
+1505313318082	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505313318407	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505313318407	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505313318426	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.137.216/zentao/"
+1505313319338	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.137.216/zentao/user-login-L3plbnRhby8=.html"
+1505313319470	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505313324447	Marionette	INFO	New connections will no longer be accepted
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 249: TypeError: log is undefined
+1505313348423	geckodriver	INFO	geckodriver 0.18.0
+1505313348423	geckodriver	INFO	Listening on 127.0.0.1:13292
+1505313350553	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505313350962	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505313351517	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10404] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10404] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505313354243	Marionette	INFO	Listening on port 13298
+1505313354311	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505313354338	Marionette	INFO	Listening on port 13298
+1505313354371	Marionette	DEBUG	loaded listener.js
+1505313354540	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505313354994	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505313354995	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505313355010	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.137.216/zentao/"
+1505313356702	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1505313358634	Marionette	INFO	New connections will no longer be accepted
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 153: TypeError: prefs is undefined

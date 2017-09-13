@@ -3,7 +3,7 @@ import sys
 import unittest
 from models import myunit, function
 from zentao.test_case.page_task.logintask import LoginTask
-from zentao.test_case.page_task.usermanagertask import UserManagerTask
+from zentao.test_case.page_task.mytask import UserManagerTask
 from zentao.test_case.page_task.bkselfvertifytask import BkSelfVertifyTask
 from time import sleep
 from apitest import creditapi

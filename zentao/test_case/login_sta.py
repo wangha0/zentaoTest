@@ -6,7 +6,7 @@ sys.path.append('/page_obj')
 sys.path.append('/page_task')
 from models import myunit, function
 from zentao.test_case.page_task.logintask import LoginTask
-from zentao.test_case.page_task.usermanagertask import UserManagerTask
+from zentao.test_case.page_task.mytask import MyTask
 
 #登录相关测试案例，首先继承重写了setup和tearup方法的类
 class loginTest(myunit.MyTest):
@@ -20,7 +20,7 @@ class loginTest(myunit.MyTest):
         u"""用户名admin，密码wangha0_MS"""
         self.user_login_verify('admin','wangha0_MS')
         try:
-            self.assertEqual(UserManagerTask(self.driver).user_login_success(),'admin')
+            self.assertEqual(MyTask(self.driver).user_login_success(),'admin')
         except BaseException:
             function.insert_img(self.driver,'user_login_failed.jpg')
             raise
