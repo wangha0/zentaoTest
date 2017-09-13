@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6afc532d-c8ba-405e-9531-767405f754a8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/geckodriver.log" afterPath="$PROJECT_DIR$/geckodriver.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zentao/test_case/login_sta.py" afterPath="$PROJECT_DIR$/zentao/test_case/login_sta.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zentao/test_case/page_task/basetask.py" afterPath="$PROJECT_DIR$/zentao/test_case/page_task/basetask.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zentao/test_case/shortcircuit_sta.py" afterPath="$PROJECT_DIR$/zentao/test_case/shortcircuit_sta.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zentao/test_case/sysresponse_sta.py" afterPath="$PROJECT_DIR$/zentao/test_case/sysresponse_sta.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/zentao/test_case/page_obj/usermanagerpage.py" afterPath="$PROJECT_DIR$/zentao/test_case/page_obj/mypage.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/zentao/test_case/page_task/usermanagertask.py" afterPath="$PROJECT_DIR$/zentao/test_case/page_task/mytask.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -624,7 +617,14 @@
       <option name="project" value="LOCAL" />
       <updated>1505312430407</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1505313426856</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1505313426856</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
