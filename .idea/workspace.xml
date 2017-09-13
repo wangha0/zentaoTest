@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6afc532d-c8ba-405e-9531-767405f754a8" name="Default" comment="update bankcredit to zentao">
+    <list default="true" id="6afc532d-c8ba-405e-9531-767405f754a8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/geckodriver.log" afterPath="$PROJECT_DIR$/geckodriver.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zentao/test_case/login_sta.py" afterPath="$PROJECT_DIR$/zentao/test_case/login_sta.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zentao/test_case/models/driver.py" afterPath="$PROJECT_DIR$/zentao/test_case/models/driver.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zentao/test_case/models/function.py" afterPath="$PROJECT_DIR$/zentao/test_case/models/function.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zentao/test_case/models/geckodriver.log" afterPath="$PROJECT_DIR$/zentao/test_case/models/geckodriver.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zentao/test_case/models/myunit.py" afterPath="$PROJECT_DIR$/zentao/test_case/models/myunit.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zentao/test_case/page_obj/basepage.py" afterPath="$PROJECT_DIR$/zentao/test_case/page_obj/basepage.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zentao/test_case/page_obj/loginpage.py" afterPath="$PROJECT_DIR$/zentao/test_case/page_obj/loginpage.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zentao/test_case/page_task/basetask.py" afterPath="$PROJECT_DIR$/zentao/test_case/page_task/basetask.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zentao/test_case/page_task/logintask.py" afterPath="$PROJECT_DIR$/zentao/test_case/page_task/logintask.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -612,7 +602,14 @@
       <option name="project" value="LOCAL" />
       <updated>1505307545638</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1505312430407</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1505312430407</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -657,7 +654,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21908316" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295519" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -684,7 +682,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update bankcredit to zentao" />
-    <option name="LAST_COMMIT_MESSAGE" value="update bankcredit to zentao" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
