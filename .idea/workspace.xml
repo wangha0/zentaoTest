@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6afc532d-c8ba-405e-9531-767405f754a8" name="Default" comment="" />
+    <list default="true" id="6afc532d-c8ba-405e-9531-767405f754a8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apitest/test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit10.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit10config.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit10result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit11.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit11config.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit11result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit12.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit12config.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit12result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit13.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit13config.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit13result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit14.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit14config.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit14result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit15.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit15config.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit15result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit16config.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit16result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit17.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit17config.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit17result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit1config.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit2config.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit3config.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit4config.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit4result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit5config.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit5result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit6config.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit6result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit7config.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit7result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit8config.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit8result.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit9config.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit9result.csv" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/bankCredit.iml" afterPath="$PROJECT_DIR$/.idea/bankCredit.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,18 +68,7 @@
     <favorites_list name="bankCredit" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/apitest/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,6 +95,9 @@
       <replace>@unittest.skip('skip')</replace>
       <replace>#@unittest.skip('skip')</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/bankcredit/test_case/login_sta.py" root0="SKIP_HIGHLIGHTING" />
@@ -83,8 +129,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="738" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -120,25 +166,40 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bankCredit" />
+              <option name="myItemId" value="zentaoTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bankCredit" />
+              <option name="myItemId" value="zentaoTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bankCredit" />
+              <option name="myItemId" value="zentaoTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bankCredit" />
+              <option name="myItemId" value="zentaoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="driver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zentaoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zentaoTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -148,11 +209,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bankCredit" />
+              <option name="myItemId" value="zentaoTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bankCredit" />
+              <option name="myItemId" value="zentaoTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -166,11 +227,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bankCredit" />
+              <option name="myItemId" value="zentaoTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bankCredit" />
+              <option name="myItemId" value="zentaoTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -188,11 +249,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bankCredit" />
+              <option name="myItemId" value="zentaoTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bankCredit" />
+              <option name="myItemId" value="zentaoTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -210,11 +271,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bankCredit" />
+              <option name="myItemId" value="zentaoTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bankCredit" />
+              <option name="myItemId" value="zentaoTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -232,11 +293,51 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bankCredit" />
+              <option name="myItemId" value="zentaoTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bankCredit" />
+              <option name="myItemId" value="zentaoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bankcredit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="report" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zentaoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zentaoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bankcredit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="report" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zentaoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zentaoTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -247,13 +348,12 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/bankCredit/bankcredit/test_case/page_obj/bkselfvertifypage.py" />
-    <property name="last_opened_file_path" value="E:/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -505,14 +605,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="738" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21482602" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21695095" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295519" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20306297" sideWeight="0.51544404" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.024793388" sideWeight="0.484556" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295519" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -601,35 +700,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Python27/Lib/site-packages/selenium/webdriver/common/action_chains.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/selenium/webdriver/common/action_chains.py" />
     <entry file="file://$PROJECT_DIR$/bankcredit/report/image/user_login_failed.jpg" />
-    <entry file="file://D:/Python27/Lib/StringIO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="270" column="0" lean-forward="false" selection-start-line="270" selection-start-column="0" selection-end-line="270" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/1494736245/_csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="131" column="4" lean-forward="false" selection-start-line="131" selection-start-column="4" selection-end-line="131" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python27/Lib/unittest/result.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="145" column="0" lean-forward="false" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Python27/Lib/StringIO.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/1494736245/_csv.py" />
+    <entry file="file://D:/Python27/Lib/unittest/result.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_unittest_runner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
@@ -637,13 +712,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Python27/Lib/unittest/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Python27/Lib/unittest/main.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/unittestpy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="812">
@@ -651,64 +720,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Python27/Lib/unittest/runner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="932">
-          <caret line="195" column="0" lean-forward="false" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python27/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="785" column="8" lean-forward="false" selection-start-line="785" selection-start-column="8" selection-end-line="785" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Python27/Lib/unittest/runner.py" />
+    <entry file="file://D:/Python27/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
     <entry file="file://$PROJECT_DIR$/bankcredit/report/2017-06-26 16_53_43_result.html" />
-    <entry file="file://D:/Python27/Lib/HTMLTestRunner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="631" column="0" lean-forward="false" selection-start-line="631" selection-start-column="0" selection-end-line="631" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python27/Lib/unittest/suite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Python27/Lib/HTMLTestRunner.py" />
+    <entry file="file://D:/Python27/Lib/unittest/suite.py" />
     <entry file="file://$PROJECT_DIR$/bankcredit/report/image/filed.jpg" />
-    <entry file="file://D:/Python27/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1251">
-          <caret line="507" column="8" lean-forward="false" selection-start-line="507" selection-start-column="8" selection-end-line="507" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python27/Lib/site-packages/selenium/webdriver/support/select.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="66" column="8" lean-forward="false" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python27/Lib/site-packages/mysql/connector/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1177">
-          <caret line="127" column="4" lean-forward="false" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python27/Lib/site-packages/mysql/connector/connection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="176" column="0" lean-forward="false" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Python27/Lib/unittest/case.py" />
+    <entry file="file://D:/Python27/Lib/site-packages/selenium/webdriver/support/select.py" />
+    <entry file="file://D:/Python27/Lib/site-packages/mysql/connector/__init__.py" />
+    <entry file="file://D:/Python27/Lib/site-packages/mysql/connector/connection.py" />
     <entry file="file://$PROJECT_DIR$/bankcredit/test_case/models/connectdb.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="713">
@@ -716,13 +737,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Python27/Lib/site-packages/selenium/common/exceptions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/selenium/common/exceptions.py" />
     <entry file="file://$PROJECT_DIR$/bankcredit/test_case/page_task/bkselfvertifytask.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -744,20 +759,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Python27/Lib/site-packages/selenium/webdriver/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python27/Lib/site-packages/selenium/webdriver/firefox/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="54" column="8" lean-forward="false" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/selenium/webdriver/__init__.py" />
+    <entry file="file://D:/Python27/Lib/site-packages/selenium/webdriver/firefox/webdriver.py" />
     <entry file="file://$PROJECT_DIR$/bankcredit/test_case/page_task/usermanagertask.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
@@ -860,32 +863,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding>
-            <element signature="e#14#51#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/1494736245/__builtin__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="2870" column="12" lean-forward="true" selection-start-line="2870" selection-start-column="12" selection-end-line="2870" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python27/Lib/site-packages/pymysql/cursors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="64" column="24" lean-forward="false" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/1494736245/__builtin__.py" />
+    <entry file="file://D:/Python27/Lib/site-packages/pymysql/cursors.py" />
     <entry file="file://$PROJECT_DIR$/apitest/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        <state relative-caret-position="180">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
           <folding />
         </state>
       </provider>
