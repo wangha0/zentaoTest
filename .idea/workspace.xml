@@ -1,59 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6afc532d-c8ba-405e-9531-767405f754a8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/apitest/test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit1.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit10.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit10config.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit10result.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit11.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit11config.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit11result.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit12.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit12config.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit12result.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit13.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit13config.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit13result.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit14.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit14config.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit14result.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit15.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit15config.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit15result.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit16.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit16config.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit16result.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit17.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit17config.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit17result.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit1config.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit2config.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit3config.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit4config.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit4result.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit5config.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit5result.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit6config.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit6result.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit7.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit7config.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit7result.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit8config.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit8result.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit9.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit9config.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bankcredit/data/shortcircuit9result.csv" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/bankCredit.iml" afterPath="$PROJECT_DIR$/.idea/bankCredit.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="6afc532d-c8ba-405e-9531-767405f754a8" name="Default" comment="update bankcredit to zentao">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,7 +16,18 @@
     <favorites_list name="bankCredit" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="run_baoliyun_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/run_baoliyun_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="383">
+              <caret line="64" column="16" lean-forward="false" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -89,18 +48,25 @@
       <find>@unittest.skip('skip')</find>
       <find>date</find>
       <find>__exit__</find>
+      <find>b</find>
+      <find>bank</find>
+      <find>bankc</find>
+      <find>bankcre</find>
+      <find>bankcred</find>
+      <find>bankcredit</find>
     </findStrings>
     <replaceStrings>
       <replace>i.replace(',', '') == sys_info.replace(',', '')</replace>
       <replace>@unittest.skip('skip')</replace>
       <replace>#@unittest.skip('skip')</replace>
+      <replace>zentao</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>F:\zentaoTest</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/bankcredit/test_case/login_sta.py" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -117,12 +83,12 @@
         <option value="$PROJECT_DIR$/bankcredit/test_case/sysresponse_sta.py" />
         <option value="$PROJECT_DIR$/apitest/creditapi.py" />
         <option value="$PROJECT_DIR$/bankcredit/test_case/shortcircuit_sta.py" />
-        <option value="$PROJECT_DIR$/run_baoliyun_test.py" />
         <option value="$PROJECT_DIR$/bankcredit/test_case/login_sta.py" />
         <option value="$PROJECT_DIR$/bankcredit/test_case/page_obj/basepage.py" />
         <option value="$PROJECT_DIR$/bankcredit/test_case/page_task/basetask.py" />
         <option value="$PROJECT_DIR$/bankcredit/test_case/models/driver.py" />
         <option value="$PROJECT_DIR$/apitest/test.py" />
+        <option value="$PROJECT_DIR$/run_baoliyun_test.py" />
       </list>
     </option>
   </component>
@@ -166,7 +132,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -203,151 +169,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bankcredit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zentaoTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zentaoTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bankcredit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_case" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zentaoTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zentaoTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bankcredit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_case" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="page_task" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zentaoTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zentaoTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bankcredit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_case" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="page_obj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zentaoTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zentaoTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bankcredit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_case" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zentaoTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zentaoTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bankcredit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="report" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zentaoTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zentaoTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bankcredit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="report" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="image" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zentaoTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zentaoTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="apitest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -561,6 +389,14 @@
       <option name="presentableId" value="Default" />
       <updated>1497857275088</updated>
     </task>
+    <task id="LOCAL-00001" summary="update bankcredit to zentao">
+      <created>1505307545638</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1505307545638</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -607,28 +443,32 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21695095" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21908316" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295519" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20306297" sideWeight="0.51544404" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.024793388" sideWeight="0.484556" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295519" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.024793388" sideWeight="0.484556" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16033058" sideWeight="0.49092284" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16033058" sideWeight="0.49092284" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update bankcredit to zentao" />
+    <option name="LAST_COMMIT_MESSAGE" value="update bankcredit to zentao" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -782,13 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run_baoliyun_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1510">
-          <caret line="73" column="88" lean-forward="false" selection-start-line="73" selection-start-column="88" selection-end-line="73" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bankcredit/test_case/shortcircuit_sta.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
@@ -868,10 +701,11 @@
     </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/1494736245/__builtin__.py" />
     <entry file="file://D:/Python27/Lib/site-packages/pymysql/cursors.py" />
-    <entry file="file://$PROJECT_DIR$/apitest/test.py">
+    <entry file="file://$PROJECT_DIR$/apitest/test.py" />
+    <entry file="file://$PROJECT_DIR$/run_baoliyun_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        <state relative-caret-position="383">
+          <caret line="64" column="16" lean-forward="false" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
           <folding />
         </state>
       </provider>
